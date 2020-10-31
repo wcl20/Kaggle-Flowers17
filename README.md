@@ -1,4 +1,4 @@
-# Tensorflow Data Agumentation
+# Tensorflow MiniVGGNet
 
 ## Setup
 Generate Virtual environment
